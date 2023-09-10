@@ -16,8 +16,8 @@ The tunable parameters about different datasets are listed as follows:
 
 References:
 
-Man-Sheng Chen, Chang-Dong Wang and Jian-Huang Lai. "Low-Rank Tensor Based Proximity Learning for Multi-View Clustering", TKDE2023
+Man-Sheng Chen, Chang-Dong Wang and Jian-Huang Lai. "Low-Rank Tensor Based Proximity Learning for Multi-View Clustering", TKDE2023.
 
 Written by: Mansheng Chen, chenmsh27@mail2.sysu.edu.cn
 
- 2021-12-06
+2021-12-06
