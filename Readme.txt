@@ -15,6 +15,9 @@ The tunable parameters about different datasets are listed as follows:
 9.BBC4view        alpha=2 ,beta=10 ,omega=[9,10,10,10]
 
 References:
- "Low-rank Tensor Based Proximity Learning for Multi-view Clustering" 
+
+Man-Sheng Chen, Chang-Dong Wang and Jian-Huang Lai. "Low-Rank Tensor Based Proximity Learning for Multi-View Clustering", TKDE2023
+
 Written by: Mansheng Chen, chenmsh27@mail2.sysu.edu.cn
+
  2021-12-06
